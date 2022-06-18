@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Card Component Snapshot of component 1`] = `
+<div
+  className="cardContainer"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <img
+    src="Image.jpg"
+  />
+  <div
+    className="cardSubText"
+  >
+    <h1
+      aria-label="title"
+    />
+    <h2
+      aria-label="sender"
+    />
+    <br />
+    <h3
+      aria-label="message"
+    />
+  </div>
+</div>
+`;
+
+exports[`Test Card Component Snapshot of component 2`] = `
+<div
+  className="cardContainer"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <img
+    src="Image.jpg"
+  />
+  <div
+    className="cardSubText"
+  >
+    <h1
+      aria-label="title"
+    />
+    <h2
+      aria-label="sender"
+    />
+    <br />
+    <h3
+      aria-label="message"
+    />
+  </div>
+</div>
+`;

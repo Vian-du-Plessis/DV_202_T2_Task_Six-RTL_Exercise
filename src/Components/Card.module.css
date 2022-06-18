@@ -1,0 +1,7 @@
+.cardContainer {
+    width: fit-content;
+    padding: 20px;
+    height: fit-content;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
